@@ -2,6 +2,8 @@
 ## Descripcion
 Hello this is my first proyect a **google clone** interface
 
+Para este proyecto se utilizo el editor de código *Visual Studio Code* y los lenguajes **HTMIL** y **CSS**
+
 ### Elementos del proyecto
 <ul>
   <li>Menú de navegación</li>
